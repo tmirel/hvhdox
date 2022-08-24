@@ -1,0 +1,24 @@
+.ang {
+    background-color: rgb(34, 33, 33);
+    color: whitesmoke;
+    word-spacing: normal;
+    font-size: medium;
+    line-height: 19px;
+    font-family: sans-serif;
+    font-size: 14px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+a { 
+    text-decoration: none; 
+    color: white;
+}
+
+.logo-index {
+    margin-top: 30px;
+    display: block;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
